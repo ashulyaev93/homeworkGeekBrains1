@@ -3,7 +3,7 @@ package exerсise1;
 public class Main {
 
     public static void main(String[] args) {
-        int a = 5;
+        int a = 6;
         short b = 32;
         long c = 2;
         byte d = 127;
